@@ -1,6 +1,6 @@
-# ember-tailwind
+# ember-modal-dialog
 
-[Original](https://github.com/raytiley/tailwind-ember-example)
+[Original](https://balinterdi.com/blog/making-a-modal-dialog-using-yieldable-named-blocks/)
 
 ## Prerequisites
 
